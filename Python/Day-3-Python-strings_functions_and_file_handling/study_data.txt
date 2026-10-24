@@ -1,0 +1,8 @@
+Project VED Sttudy Tracker
+daily study hours: 4
+weekly study hours: 28
+New study session: 2 hours
+New study session: 2 hours
+Student: Gagan
+Study hours: 3.0
+--------------------
